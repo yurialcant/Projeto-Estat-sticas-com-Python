@@ -48,3 +48,15 @@ O segundo passo consiste em criar a tabela de frequência, para isso usaremos a 
 ![Captura de Tela (214)](https://user-images.githubusercontent.com/102321564/194775021-c5adec38-801b-429f-9719-34cb7eef5c19.png)
 
 
+<h1> Distribuição de Frequências</h1>
+<h2> Histograma</h2>
+
+Nesta etapa, criaremos um histograma que é a representação gráfica de uma distribuição de frequências, para isso importaremos a biblioteca seaborn, onde através dela conseguiremos montar nosso histograma usando a função histplot e passando a coluna de nosso DataFrame que desejamos criar no histograma.
+
+![Captura de Tela (215)](https://user-images.githubusercontent.com/102321564/194775233-b81c8809-bc0f-42f7-83f4-7ce7730be813.png)
+
+Podemos criar a gráficos com a biblioteca pandas, mas perdemos algumas funções e nossos gráficos ficam mais simples, para criar um gráfico de barras, basta usar a função plot.bar e passar os parâmetros desejados no gráfico.
+
+![Captura de Tela (216)](https://user-images.githubusercontent.com/102321564/194775319-53262e12-4fa0-4cfe-b2b3-3655a8c43cd1.png)
+
+
