@@ -69,5 +69,5 @@ Nesta etapa, usaremos a biblioteca seaborn novamente, para avaliarmos as medias 
 
 ![Captura de Tela (219)](https://user-images.githubusercontent.com/102321564/194775579-59b79a12-b7af-4a71-b837-c5ea4beb57fe.png)
 
-Podemos ver que as medidas, são extremamente bem representadas nos gráficos, nos dando uma visualização extremamente fiel aos resultados obtidos pelas funções modem median e mean.
+Podemos ver que as medidas, são extremamente bem representadas nos gráficos, nos dando uma visualização extremamente fiel aos resultados obtidos pelas funções mode median e mean.
 
