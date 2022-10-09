@@ -59,4 +59,15 @@ Podemos criar a gráficos com a biblioteca pandas, mas perdemos algumas funçõe
 
 ![Captura de Tela (216)](https://user-images.githubusercontent.com/102321564/194775319-53262e12-4fa0-4cfe-b2b3-3655a8c43cd1.png)
 
+<h1> Medidas de Tendência Central </h1>
+<h2> Relação entre média, mediana e moda</h2>
+Nesta etapa, usaremos a biblioteca seaborn novamente, para avaliarmos as medias de tendência central e as funções mode, median e mean para obtermos as medidas de algumas variáveis, o resultado pode ser visto nas imagens abaixo.
+
+![Captura de Tela (217)](https://user-images.githubusercontent.com/102321564/194775509-b32e79f2-cf18-4fd0-859a-71775a3f5307.png)
+
+![Captura de Tela (218)](https://user-images.githubusercontent.com/102321564/194775540-d5913e42-b5a9-4245-b5d5-182c2903953c.png)
+
+![Captura de Tela (219)](https://user-images.githubusercontent.com/102321564/194775579-59b79a12-b7af-4a71-b837-c5ea4beb57fe.png)
+
+Podemos ver que as medidas, são extremamente bem representadas nos gráficos, nos dando uma visualização extremamente fiel aos resultados obtidos pelas funções modem median e mean.
 
