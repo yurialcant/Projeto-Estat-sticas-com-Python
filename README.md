@@ -35,5 +35,16 @@ Nosso segundo método, se baseou em utilizar um método do pandas chamado crosst
 ![Captura de Tela (211)](https://user-images.githubusercontent.com/102321564/194421597-ed1805f4-9904-4f3a-9d7b-606862ccae05.png)![Captura de Tela (212)](https://user-images.githubusercontent.com/102321564/194421676-a982c0a9-ace8-47ed-8a35-5296bcec9e9c.png)
 
 
+<h1> Distribuição de Frequências</h1>
+<h2> Variáveis quantitativas</h2>
+Agora iremos realizar a distribuição de frenquência para as variáveis quantitativas, o primeiro passo para realizar isso é especificar os limites de cada classe, neste exemplo iremos usar a renda, portanto dividimos a nossa classe com base nos limites de renda.
+
+
+![Captura de Tela (213)](https://user-images.githubusercontent.com/102321564/194774825-5a3edbab-24bc-4f34-9ab7-ddc21fe543c2.png)
+
+O segundo passo consiste em criar a tabela de frequência, para isso usaremos a função cut do pandas passando como parâmetros as classes e os labels que criamos, incluido o comando "include_lowest" para incluir na nossa tabela o número 0, então após criarmos as tabelas de frequência e de percentual, passaremos as duas para um novo Data Frame e depois usamos o parâmetro ascending como falso, para ordenar o nosso Data Frame.
+
+
+![Captura de Tela (214)](https://user-images.githubusercontent.com/102321564/194775021-c5adec38-801b-429f-9719-34cb7eef5c19.png)
 
 
