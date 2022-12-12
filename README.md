@@ -10,7 +10,8 @@
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=%20COMPLETO&color=GREEN&style=for-the-badge"/>
 </p>
-#vitrinedev
+
+![](https://user-images.githubusercontent.com/102321564/194775233-b81c8809-bc0f-42f7-83f4-7ce7730be813.png#vitrinedev)
 
 Este projeto foi desenvolvido durante o curso de Estatísticas com Python I, nossa intenção é aprender os conceitos fundamentais aplicados na estatística utilizada por um profissional de Ciência de Dados.
 
